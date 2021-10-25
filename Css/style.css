@@ -81,6 +81,10 @@
             padding-bottom: 50px;
         }
         
+        section #sobre h3 {
+            font-family: 'GODOFWAR', Times, serif;
+        }
+        
         #Personagens,
         #Enredo,
         #GdWI,
@@ -91,6 +95,7 @@
             font-family: 'GODOFWAR', Times, serif;
         }
         
+        #sobre h3,
         #Personagens h3,
         #Enredo h3,
         #GdWI h3,
@@ -174,7 +179,7 @@ section.descricao h2>span {
         .icons-social a {
             text-decoration: none;
             color: white;
-            background-color: #6c757d;
+            background-color: rgb(155, 5, 5);
             width: 40px;
             height: 40px;
             border-radius: 20px;
